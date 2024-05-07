@@ -33,3 +33,15 @@
 
     (1)Data sources
     (2)導入Dashboard模板
+
+![image](https://github.com/Josephine-M-Li/prometheus-grafana/assets/77156174/217c1025-70cc-4a72-8911-baec42397ea4)
+
+![image](https://github.com/Josephine-M-Li/prometheus-grafana/assets/77156174/4527191f-d355-4866-aeb4-51f446913c80)
+
+- Dashboard導入成功
+
+![image](https://github.com/Josephine-M-Li/prometheus-grafana/assets/77156174/43b3ea83-72f6-4b68-b1a0-cd641d2e4067)
+
+
+
+
